@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\N_queen\bin\Debug\N_queen.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\N_queen\bin\Debug\N_queen.exe
+C:\Users\gc\source\repos\rat_in_a_maze\N_queen\bin\Debug\N_queen.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\N_queen\obj\Debug\N_queen.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\N_queen\obj\Debug\N_queen.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\N_queen\obj\Debug\N_queen.exe
+C:\Users\gc\source\repos\rat_in_a_maze\N_queen\obj\Debug\N_queen.pdb

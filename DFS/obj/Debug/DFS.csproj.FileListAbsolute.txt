@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\DFS\bin\Debug\DFS.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\DFS\bin\Debug\DFS.exe
+C:\Users\gc\source\repos\rat_in_a_maze\DFS\bin\Debug\DFS.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\DFS\obj\Debug\DFS.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\DFS\obj\Debug\DFS.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\DFS\obj\Debug\DFS.exe
+C:\Users\gc\source\repos\rat_in_a_maze\DFS\obj\Debug\DFS.pdb

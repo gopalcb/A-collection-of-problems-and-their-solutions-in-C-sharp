@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\subset_of_a_set\bin\Debug\subset_of_a_set.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\subset_of_a_set\bin\Debug\subset_of_a_set.exe
+C:\Users\gc\source\repos\rat_in_a_maze\subset_of_a_set\bin\Debug\subset_of_a_set.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\subset_of_a_set\obj\Debug\subset_of_a_set.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\subset_of_a_set\obj\Debug\subset_of_a_set.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\subset_of_a_set\obj\Debug\subset_of_a_set.exe
+C:\Users\gc\source\repos\rat_in_a_maze\subset_of_a_set\obj\Debug\subset_of_a_set.pdb

@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Largest Number formed from an Array\bin\Debug\Largest Number formed from an Array.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Largest Number formed from an Array\bin\Debug\Largest Number formed from an Array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Largest Number formed from an Array\bin\Debug\Largest Number formed from an Array.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Largest Number formed from an Array\obj\Debug\Largest Number formed from an Array.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Largest Number formed from an Array\obj\Debug\Largest Number formed from an Array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Largest Number formed from an Array\obj\Debug\Largest Number formed from an Array.pdb

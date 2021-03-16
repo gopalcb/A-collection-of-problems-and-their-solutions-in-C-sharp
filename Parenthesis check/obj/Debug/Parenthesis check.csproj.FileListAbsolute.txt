@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Parenthesis check\bin\Debug\Parenthesis check.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Parenthesis check\bin\Debug\Parenthesis check.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Parenthesis check\bin\Debug\Parenthesis check.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Parenthesis check\obj\Debug\Parenthesis check.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Parenthesis check\obj\Debug\Parenthesis check.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Parenthesis check\obj\Debug\Parenthesis check.pdb

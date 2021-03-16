@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\gc\source\repos\rat_in_a_maze\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\gc\source\repos\rat_in_a_maze\LinkedList\obj\Debug\LinkedList.pdb

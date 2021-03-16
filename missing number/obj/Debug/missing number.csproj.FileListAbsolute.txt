@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\missing number\bin\Debug\missing number.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\missing number\bin\Debug\missing number.exe
+C:\Users\gc\source\repos\rat_in_a_maze\missing number\bin\Debug\missing number.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\missing number\obj\Debug\missing number.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\missing number\obj\Debug\missing number.exe
+C:\Users\gc\source\repos\rat_in_a_maze\missing number\obj\Debug\missing number.pdb

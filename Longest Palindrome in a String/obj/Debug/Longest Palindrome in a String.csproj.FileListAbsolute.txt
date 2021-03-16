@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Palindrome in a String\bin\Debug\Longest Palindrome in a String.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Palindrome in a String\bin\Debug\Longest Palindrome in a String.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Palindrome in a String\bin\Debug\Longest Palindrome in a String.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Palindrome in a String\obj\Debug\Longest Palindrome in a String.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Palindrome in a String\obj\Debug\Longest Palindrome in a String.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Palindrome in a String\obj\Debug\Longest Palindrome in a String.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Palindrome in a String\obj\Debug\Longest Palindrome in a String.pdb

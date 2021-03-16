@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Partition problem\bin\Debug\Partition problem.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Partition problem\bin\Debug\Partition problem.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Partition problem\bin\Debug\Partition problem.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Partition problem\obj\Debug\Partition problem.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Partition problem\obj\Debug\Partition problem.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Partition problem\obj\Debug\Partition problem.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Partition problem\obj\Debug\Partition problem.pdb

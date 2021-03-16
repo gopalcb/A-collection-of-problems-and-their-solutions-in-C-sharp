@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Leaders in an array\bin\Debug\Leaders in an array.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Leaders in an array\bin\Debug\Leaders in an array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Leaders in an array\bin\Debug\Leaders in an array.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Leaders in an array\obj\Debug\Leaders in an array.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Leaders in an array\obj\Debug\Leaders in an array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Leaders in an array\obj\Debug\Leaders in an array.pdb

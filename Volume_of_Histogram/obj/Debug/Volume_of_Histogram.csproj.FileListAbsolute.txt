@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Volume_of_Histogram\bin\Debug\Volume_of_Histogram.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Volume_of_Histogram\bin\Debug\Volume_of_Histogram.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Volume_of_Histogram\bin\Debug\Volume_of_Histogram.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Volume_of_Histogram\obj\Debug\Volume_of_Histogram.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Volume_of_Histogram\obj\Debug\Volume_of_Histogram.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Volume_of_Histogram\obj\Debug\Volume_of_Histogram.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Volume_of_Histogram\obj\Debug\Volume_of_Histogram.pdb

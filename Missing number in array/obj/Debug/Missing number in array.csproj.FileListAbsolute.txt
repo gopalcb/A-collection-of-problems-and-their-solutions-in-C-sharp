@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Missing number in array\bin\Debug\Missing number in array.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Missing number in array\bin\Debug\Missing number in array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Missing number in array\bin\Debug\Missing number in array.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Missing number in array\obj\Debug\Missing number in array.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Missing number in array\obj\Debug\Missing number in array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Missing number in array\obj\Debug\Missing number in array.pdb

@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Edit Distance Dynamic Programming\bin\Debug\Minimum Edit Distance Dynamic Programming.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Edit Distance Dynamic Programming\bin\Debug\Minimum Edit Distance Dynamic Programming.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Edit Distance Dynamic Programming\bin\Debug\Minimum Edit Distance Dynamic Programming.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Edit Distance Dynamic Programming\obj\Debug\Minimum Edit Distance Dynamic Programming.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Edit Distance Dynamic Programming\obj\Debug\Minimum Edit Distance Dynamic Programming.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Edit Distance Dynamic Programming\obj\Debug\Minimum Edit Distance Dynamic Programming.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Edit Distance Dynamic Programming\obj\Debug\Minimum Edit Distance Dynamic Programming.pdb

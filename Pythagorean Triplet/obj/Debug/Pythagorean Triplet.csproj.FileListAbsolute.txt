@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Pythagorean Triplet\bin\Debug\Pythagorean Triplet.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Pythagorean Triplet\bin\Debug\Pythagorean Triplet.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Pythagorean Triplet\bin\Debug\Pythagorean Triplet.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Pythagorean Triplet\obj\Debug\Pythagorean Triplet.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Pythagorean Triplet\obj\Debug\Pythagorean Triplet.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Pythagorean Triplet\obj\Debug\Pythagorean Triplet.pdb

@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Cutting Rod dynamic programming\bin\Debug\Cutting Rod dynamic programming.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Cutting Rod dynamic programming\bin\Debug\Cutting Rod dynamic programming.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Cutting Rod dynamic programming\bin\Debug\Cutting Rod dynamic programming.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Cutting Rod dynamic programming\obj\Debug\Cutting Rod dynamic programming.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Cutting Rod dynamic programming\obj\Debug\Cutting Rod dynamic programming.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Cutting Rod dynamic programming\obj\Debug\Cutting Rod dynamic programming.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Cutting Rod dynamic programming\obj\Debug\Cutting Rod dynamic programming.pdb

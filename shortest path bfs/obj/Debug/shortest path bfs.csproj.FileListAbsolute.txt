@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path bfs\bin\Debug\shortest path bfs.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path bfs\bin\Debug\shortest path bfs.exe
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path bfs\bin\Debug\shortest path bfs.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path bfs\obj\Debug\shortest path bfs.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path bfs\obj\Debug\shortest path bfs.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path bfs\obj\Debug\shortest path bfs.exe
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path bfs\obj\Debug\shortest path bfs.pdb

@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\print_all_parentheses\bin\Debug\print_all_parentheses.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\print_all_parentheses\bin\Debug\print_all_parentheses.exe
+C:\Users\gc\source\repos\rat_in_a_maze\print_all_parentheses\bin\Debug\print_all_parentheses.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\print_all_parentheses\obj\Debug\print_all_parentheses.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\print_all_parentheses\obj\Debug\print_all_parentheses.exe
+C:\Users\gc\source\repos\rat_in_a_maze\print_all_parentheses\obj\Debug\print_all_parentheses.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\print_all_parentheses\obj\Debug\print_all_parentheses.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Queue\bin\Debug\Queue.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Queue\bin\Debug\Queue.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Queue\bin\Debug\Queue.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Queue\obj\Debug\Queue.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Queue\obj\Debug\Queue.pdb

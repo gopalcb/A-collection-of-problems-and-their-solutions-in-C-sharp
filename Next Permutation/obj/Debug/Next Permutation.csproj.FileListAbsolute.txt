@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Next Permutation\bin\Debug\Next Permutation.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Next Permutation\bin\Debug\Next Permutation.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Next Permutation\bin\Debug\Next Permutation.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Next Permutation\obj\Debug\Next Permutation.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Next Permutation\obj\Debug\Next Permutation.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Next Permutation\obj\Debug\Next Permutation.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Next Permutation\obj\Debug\Next Permutation.pdb

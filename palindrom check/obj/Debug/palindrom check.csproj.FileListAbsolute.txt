@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\palindrom check\bin\Debug\palindrom check.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\palindrom check\bin\Debug\palindrom check.exe
+C:\Users\gc\source\repos\rat_in_a_maze\palindrom check\bin\Debug\palindrom check.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\palindrom check\obj\Debug\palindrom check.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\palindrom check\obj\Debug\palindrom check.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\palindrom check\obj\Debug\palindrom check.exe
+C:\Users\gc\source\repos\rat_in_a_maze\palindrom check\obj\Debug\palindrom check.pdb

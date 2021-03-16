@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\DP_staircase_problem\bin\Debug\DP_staircase_problem.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\DP_staircase_problem\bin\Debug\DP_staircase_problem.exe
+C:\Users\gc\source\repos\rat_in_a_maze\DP_staircase_problem\bin\Debug\DP_staircase_problem.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\DP_staircase_problem\obj\Debug\DP_staircase_problem.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\DP_staircase_problem\obj\Debug\DP_staircase_problem.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\DP_staircase_problem\obj\Debug\DP_staircase_problem.exe
+C:\Users\gc\source\repos\rat_in_a_maze\DP_staircase_problem\obj\Debug\DP_staircase_problem.pdb

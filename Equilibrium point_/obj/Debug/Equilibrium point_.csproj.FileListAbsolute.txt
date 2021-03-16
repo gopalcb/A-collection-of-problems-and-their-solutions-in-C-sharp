@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Equilibrium point_\bin\Debug\Equilibrium point_.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Equilibrium point_\bin\Debug\Equilibrium point_.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Equilibrium point_\bin\Debug\Equilibrium point_.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Equilibrium point_\obj\Debug\Equilibrium point_.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Equilibrium point_\obj\Debug\Equilibrium point_.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Equilibrium point_\obj\Debug\Equilibrium point_.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Equilibrium point_\obj\Debug\Equilibrium point_.pdb

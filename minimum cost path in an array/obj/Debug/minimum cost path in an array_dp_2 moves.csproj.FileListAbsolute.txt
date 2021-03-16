@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\minimum cost path in an array\bin\Debug\minimum cost path in an array.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\minimum cost path in an array\bin\Debug\minimum cost path in an array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\minimum cost path in an array\bin\Debug\minimum cost path in an array.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\minimum cost path in an array\obj\Debug\minimum cost path in an array_dp_2 moves.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\minimum cost path in an array\obj\Debug\minimum cost path in an array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\minimum cost path in an array\obj\Debug\minimum cost path in an array.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\minimum cost path in an array\obj\Debug\minimum cost path in an array_dp_2 moves.csprojAssemblyReference.cache

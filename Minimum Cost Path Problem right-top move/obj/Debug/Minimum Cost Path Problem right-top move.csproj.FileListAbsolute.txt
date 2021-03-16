@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path Problem right-top move\obj\Debug\Minimum Cost Path Problem right-top move.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path Problem right-top move\bin\Debug\Minimum Cost Path Problem right-top move.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path Problem right-top move\bin\Debug\Minimum Cost Path Problem right-top move.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path Problem right-top move\bin\Debug\Minimum Cost Path Problem right-top move.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path Problem right-top move\obj\Debug\Minimum Cost Path Problem right-top move.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path Problem right-top move\obj\Debug\Minimum Cost Path Problem right-top move.pdb

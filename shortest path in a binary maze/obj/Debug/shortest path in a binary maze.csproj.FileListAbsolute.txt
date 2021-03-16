@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path in a binary maze\bin\Debug\shortest path in a binary maze.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path in a binary maze\bin\Debug\shortest path in a binary maze.exe
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path in a binary maze\bin\Debug\shortest path in a binary maze.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path in a binary maze\obj\Debug\shortest path in a binary maze.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path in a binary maze\obj\Debug\shortest path in a binary maze.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path in a binary maze\obj\Debug\shortest path in a binary maze.exe
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path in a binary maze\obj\Debug\shortest path in a binary maze.pdb

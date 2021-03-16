@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Find the number of islands\bin\Debug\Find the number of islands.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Find the number of islands\bin\Debug\Find the number of islands.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Find the number of islands\bin\Debug\Find the number of islands.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Find the number of islands\obj\Debug\Find the number of islands.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Find the number of islands\obj\Debug\Find the number of islands.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Find the number of islands\obj\Debug\Find the number of islands.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Find the number of islands\obj\Debug\Find the number of islands.pdb

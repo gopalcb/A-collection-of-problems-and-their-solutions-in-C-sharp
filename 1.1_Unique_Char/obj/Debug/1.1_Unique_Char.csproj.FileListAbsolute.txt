@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\1.1_Unique_Char\bin\Debug\1.1_Unique_Char.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\1.1_Unique_Char\bin\Debug\1.1_Unique_Char.exe
+C:\Users\gc\source\repos\rat_in_a_maze\1.1_Unique_Char\bin\Debug\1.1_Unique_Char.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\1.1_Unique_Char\obj\Debug\1.1_Unique_Char.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\1.1_Unique_Char\obj\Debug\1.1_Unique_Char.exe
+C:\Users\gc\source\repos\rat_in_a_maze\1.1_Unique_Char\obj\Debug\1.1_Unique_Char.pdb

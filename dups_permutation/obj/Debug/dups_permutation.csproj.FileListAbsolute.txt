@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\dups_permutation\bin\Debug\dups_permutation.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\dups_permutation\bin\Debug\dups_permutation.exe
+C:\Users\gc\source\repos\rat_in_a_maze\dups_permutation\bin\Debug\dups_permutation.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\dups_permutation\obj\Debug\dups_permutation.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\dups_permutation\obj\Debug\dups_permutation.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\dups_permutation\obj\Debug\dups_permutation.exe
+C:\Users\gc\source\repos\rat_in_a_maze\dups_permutation\obj\Debug\dups_permutation.pdb

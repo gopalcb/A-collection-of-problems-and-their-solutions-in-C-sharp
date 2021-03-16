@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Word_Boggle\bin\Debug\Word_Boggle.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Word_Boggle\bin\Debug\Word_Boggle.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Word_Boggle\bin\Debug\Word_Boggle.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Word_Boggle\obj\Debug\Word_Boggle.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Word_Boggle\obj\Debug\Word_Boggle.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Word_Boggle\obj\Debug\Word_Boggle.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Word_Boggle\obj\Debug\Word_Boggle.pdb

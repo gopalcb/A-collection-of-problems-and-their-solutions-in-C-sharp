@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Count number of hops\bin\Debug\Count number of hops.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Count number of hops\bin\Debug\Count number of hops.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Count number of hops\bin\Debug\Count number of hops.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Count number of hops\obj\Debug\Count number of hops.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Count number of hops\obj\Debug\Count number of hops.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Count number of hops\obj\Debug\Count number of hops.pdb

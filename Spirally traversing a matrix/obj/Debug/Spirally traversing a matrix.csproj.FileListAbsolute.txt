@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Spirally traversing a matrix\bin\Debug\Spirally traversing a matrix.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Spirally traversing a matrix\bin\Debug\Spirally traversing a matrix.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Spirally traversing a matrix\bin\Debug\Spirally traversing a matrix.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Spirally traversing a matrix\obj\Debug\Spirally traversing a matrix.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Spirally traversing a matrix\obj\Debug\Spirally traversing a matrix.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Spirally traversing a matrix\obj\Debug\Spirally traversing a matrix.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Spirally traversing a matrix\obj\Debug\Spirally traversing a matrix.pdb

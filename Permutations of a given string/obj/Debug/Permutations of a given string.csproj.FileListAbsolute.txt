@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Permutations of a given string\bin\Debug\Permutations of a given string.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Permutations of a given string\bin\Debug\Permutations of a given string.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Permutations of a given string\bin\Debug\Permutations of a given string.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Permutations of a given string\obj\Debug\Permutations of a given string.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Permutations of a given string\obj\Debug\Permutations of a given string.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Permutations of a given string\obj\Debug\Permutations of a given string.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Permutations of a given string\obj\Debug\Permutations of a given string.pdb

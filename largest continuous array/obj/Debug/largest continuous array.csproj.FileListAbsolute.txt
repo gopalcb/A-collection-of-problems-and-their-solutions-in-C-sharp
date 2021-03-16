@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\largest continuous array\bin\Debug\largest continuous array.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\largest continuous array\bin\Debug\largest continuous array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\largest continuous array\bin\Debug\largest continuous array.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\largest continuous array\obj\Debug\largest continuous array.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\largest continuous array\obj\Debug\largest continuous array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\largest continuous array\obj\Debug\largest continuous array.pdb

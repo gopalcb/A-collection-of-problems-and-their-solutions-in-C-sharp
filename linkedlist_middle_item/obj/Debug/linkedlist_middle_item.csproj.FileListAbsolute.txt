@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\linkedlist_middle_item\bin\Debug\linkedlist_middle_item.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\linkedlist_middle_item\bin\Debug\linkedlist_middle_item.exe
+C:\Users\gc\source\repos\rat_in_a_maze\linkedlist_middle_item\bin\Debug\linkedlist_middle_item.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\linkedlist_middle_item\obj\Debug\linkedlist_middle_item.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\linkedlist_middle_item\obj\Debug\linkedlist_middle_item.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\linkedlist_middle_item\obj\Debug\linkedlist_middle_item.exe
+C:\Users\gc\source\repos\rat_in_a_maze\linkedlist_middle_item\obj\Debug\linkedlist_middle_item.pdb

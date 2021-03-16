@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\BST\obj\Debug\BST.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\BST\bin\Debug\BST.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\BST\bin\Debug\BST.exe
+C:\Users\gc\source\repos\rat_in_a_maze\BST\bin\Debug\BST.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\BST\obj\Debug\BST.exe
+C:\Users\gc\source\repos\rat_in_a_maze\BST\obj\Debug\BST.pdb

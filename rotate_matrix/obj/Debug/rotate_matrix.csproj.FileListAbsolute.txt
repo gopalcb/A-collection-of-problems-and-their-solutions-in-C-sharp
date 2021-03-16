@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\rotate_matrix\bin\Debug\rotate_matrix.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\rotate_matrix\bin\Debug\rotate_matrix.exe
+C:\Users\gc\source\repos\rat_in_a_maze\rotate_matrix\bin\Debug\rotate_matrix.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\rotate_matrix\obj\Debug\rotate_matrix.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\rotate_matrix\obj\Debug\rotate_matrix.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\rotate_matrix\obj\Debug\rotate_matrix.exe
+C:\Users\gc\source\repos\rat_in_a_maze\rotate_matrix\obj\Debug\rotate_matrix.pdb

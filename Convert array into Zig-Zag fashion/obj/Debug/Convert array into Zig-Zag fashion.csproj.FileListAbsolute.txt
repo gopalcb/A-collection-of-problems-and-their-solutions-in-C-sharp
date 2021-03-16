@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Convert array into Zig-Zag fashion\bin\Debug\Convert array into Zig-Zag fashion.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Convert array into Zig-Zag fashion\bin\Debug\Convert array into Zig-Zag fashion.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Convert array into Zig-Zag fashion\bin\Debug\Convert array into Zig-Zag fashion.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Convert array into Zig-Zag fashion\obj\Debug\Convert array into Zig-Zag fashion.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Convert array into Zig-Zag fashion\obj\Debug\Convert array into Zig-Zag fashion.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Convert array into Zig-Zag fashion\obj\Debug\Convert array into Zig-Zag fashion.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Convert array into Zig-Zag fashion\obj\Debug\Convert array into Zig-Zag fashion.pdb

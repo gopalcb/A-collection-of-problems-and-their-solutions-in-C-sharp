@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum size square sub-matrix\bin\Debug\Maximum size square sub-matrix.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum size square sub-matrix\bin\Debug\Maximum size square sub-matrix.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum size square sub-matrix\bin\Debug\Maximum size square sub-matrix.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum size square sub-matrix\obj\Debug\Maximum size square sub-matrix.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum size square sub-matrix\obj\Debug\Maximum size square sub-matrix.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum size square sub-matrix\obj\Debug\Maximum size square sub-matrix.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum size square sub-matrix\obj\Debug\Maximum size square sub-matrix.pdb

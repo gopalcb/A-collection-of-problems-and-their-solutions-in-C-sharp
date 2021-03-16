@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Generate Parentheses\bin\Debug\Generate Parentheses.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Generate Parentheses\bin\Debug\Generate Parentheses.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Generate Parentheses\bin\Debug\Generate Parentheses.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Generate Parentheses\obj\Debug\Generate Parentheses.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Generate Parentheses\obj\Debug\Generate Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Generate Parentheses\obj\Debug\Generate Parentheses.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Generate Parentheses\obj\Debug\Generate Parentheses.pdb

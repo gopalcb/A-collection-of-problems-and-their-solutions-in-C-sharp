@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\robot_in_a_grid\bin\Debug\robot_in_a_grid.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\robot_in_a_grid\bin\Debug\robot_in_a_grid.exe
+C:\Users\gc\source\repos\rat_in_a_maze\robot_in_a_grid\bin\Debug\robot_in_a_grid.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\robot_in_a_grid\obj\Debug\robot_in_a_grid.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\robot_in_a_grid\obj\Debug\robot_in_a_grid.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\robot_in_a_grid\obj\Debug\robot_in_a_grid.exe
+C:\Users\gc\source\repos\rat_in_a_maze\robot_in_a_grid\obj\Debug\robot_in_a_grid.pdb

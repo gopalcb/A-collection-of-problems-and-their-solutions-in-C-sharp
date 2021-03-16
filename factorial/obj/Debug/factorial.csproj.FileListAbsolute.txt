@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\factorial\bin\Debug\factorial.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\factorial\bin\Debug\factorial.exe
+C:\Users\gc\source\repos\rat_in_a_maze\factorial\bin\Debug\factorial.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\factorial\obj\Debug\factorial.exe
+C:\Users\gc\source\repos\rat_in_a_maze\factorial\obj\Debug\factorial.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\factorial\obj\Debug\factorial.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\linked items\bin\Debug\linked items.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\linked items\bin\Debug\linked items.exe
+C:\Users\gc\source\repos\rat_in_a_maze\linked items\bin\Debug\linked items.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\linked items\obj\Debug\linked items.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\linked items\obj\Debug\linked items.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\linked items\obj\Debug\linked items.exe
+C:\Users\gc\source\repos\rat_in_a_maze\linked items\obj\Debug\linked items.pdb

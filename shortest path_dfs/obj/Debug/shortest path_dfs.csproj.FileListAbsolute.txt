@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path_dfs\bin\Debug\shortest path_dfs.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path_dfs\bin\Debug\shortest path_dfs.exe
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path_dfs\bin\Debug\shortest path_dfs.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path_dfs\obj\Debug\shortest path_dfs.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path_dfs\obj\Debug\shortest path_dfs.exe
+C:\Users\gc\source\repos\rat_in_a_maze\shortest path_dfs\obj\Debug\shortest path_dfs.pdb

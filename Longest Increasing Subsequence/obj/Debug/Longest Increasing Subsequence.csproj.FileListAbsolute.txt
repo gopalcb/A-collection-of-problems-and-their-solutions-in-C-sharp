@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.pdb

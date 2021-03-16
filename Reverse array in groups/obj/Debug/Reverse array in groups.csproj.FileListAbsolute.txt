@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Reverse array in groups\bin\Debug\Reverse array in groups.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Reverse array in groups\bin\Debug\Reverse array in groups.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Reverse array in groups\bin\Debug\Reverse array in groups.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Reverse array in groups\obj\Debug\Reverse array in groups.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Reverse array in groups\obj\Debug\Reverse array in groups.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Reverse array in groups\obj\Debug\Reverse array in groups.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Reverse array in groups\obj\Debug\Reverse array in groups.pdb

@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\gc\source\repos\rat_in_a_maze\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\gc\source\repos\rat_in_a_maze\fibonacci\obj\Debug\fibonacci.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\fibonacci\obj\Debug\fibonacci.csprojAssemblyReference.cache

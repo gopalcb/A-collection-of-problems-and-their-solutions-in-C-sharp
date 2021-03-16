@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Largest number possible\bin\Debug\Largest number possible.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Largest number possible\bin\Debug\Largest number possible.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Largest number possible\bin\Debug\Largest number possible.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Largest number possible\obj\Debug\Largest number possible.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Largest number possible\obj\Debug\Largest number possible.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Largest number possible\obj\Debug\Largest number possible.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Largest number possible\obj\Debug\Largest number possible.pdb

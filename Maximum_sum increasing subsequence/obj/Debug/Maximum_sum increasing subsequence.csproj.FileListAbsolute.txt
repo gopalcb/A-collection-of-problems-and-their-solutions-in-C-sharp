@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum_sum increasing subsequence\bin\Debug\Maximum_sum increasing subsequence.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum_sum increasing subsequence\bin\Debug\Maximum_sum increasing subsequence.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum_sum increasing subsequence\bin\Debug\Maximum_sum increasing subsequence.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum_sum increasing subsequence\obj\Debug\Maximum_sum increasing subsequence.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum_sum increasing subsequence\obj\Debug\Maximum_sum increasing subsequence.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Maximum_sum increasing subsequence\obj\Debug\Maximum_sum increasing subsequence.pdb

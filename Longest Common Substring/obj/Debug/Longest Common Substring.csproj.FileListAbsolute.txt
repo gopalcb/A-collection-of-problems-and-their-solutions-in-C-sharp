@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Substring\bin\Debug\Longest Common Substring.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Substring\bin\Debug\Longest Common Substring.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Substring\bin\Debug\Longest Common Substring.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Substring\obj\Debug\Longest Common Substring.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Substring\obj\Debug\Longest Common Substring.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Substring\obj\Debug\Longest Common Substring.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Substring\obj\Debug\Longest Common Substring.pdb

@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Tree Maximum Depth\bin\Debug\Tree Maximum Depth.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Tree Maximum Depth\bin\Debug\Tree Maximum Depth.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Tree Maximum Depth\bin\Debug\Tree Maximum Depth.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Tree Maximum Depth\obj\Debug\Tree Maximum Depth.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Tree Maximum Depth\obj\Debug\Tree Maximum Depth.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Tree Maximum Depth\obj\Debug\Tree Maximum Depth.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Tree Maximum Depth\obj\Debug\Tree Maximum Depth.pdb

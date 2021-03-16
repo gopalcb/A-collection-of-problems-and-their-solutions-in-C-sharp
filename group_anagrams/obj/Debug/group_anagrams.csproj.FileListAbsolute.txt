@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\group_anagrams\bin\Debug\group_anagrams.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\group_anagrams\bin\Debug\group_anagrams.exe
+C:\Users\gc\source\repos\rat_in_a_maze\group_anagrams\bin\Debug\group_anagrams.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\group_anagrams\obj\Debug\group_anagrams.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\group_anagrams\obj\Debug\group_anagrams.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\group_anagrams\obj\Debug\group_anagrams.exe
+C:\Users\gc\source\repos\rat_in_a_maze\group_anagrams\obj\Debug\group_anagrams.pdb

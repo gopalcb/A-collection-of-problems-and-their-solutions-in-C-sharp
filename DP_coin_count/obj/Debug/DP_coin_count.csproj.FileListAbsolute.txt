@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\DP_coin_count\bin\Debug\DP_coin_count.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\DP_coin_count\bin\Debug\DP_coin_count.exe
+C:\Users\gc\source\repos\rat_in_a_maze\DP_coin_count\bin\Debug\DP_coin_count.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\DP_coin_count\obj\Debug\DP_coin_count.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\DP_coin_count\obj\Debug\DP_coin_count.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\DP_coin_count\obj\Debug\DP_coin_count.exe
+C:\Users\gc\source\repos\rat_in_a_maze\DP_coin_count\obj\Debug\DP_coin_count.pdb

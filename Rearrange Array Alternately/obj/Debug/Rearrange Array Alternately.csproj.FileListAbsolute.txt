@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Rearrange Array Alternately\bin\Debug\Rearrange Array Alternately.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Rearrange Array Alternately\bin\Debug\Rearrange Array Alternately.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Rearrange Array Alternately\bin\Debug\Rearrange Array Alternately.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Rearrange Array Alternately\obj\Debug\Rearrange Array Alternately.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Rearrange Array Alternately\obj\Debug\Rearrange Array Alternately.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Rearrange Array Alternately\obj\Debug\Rearrange Array Alternately.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Rearrange Array Alternately\obj\Debug\Rearrange Array Alternately.pdb

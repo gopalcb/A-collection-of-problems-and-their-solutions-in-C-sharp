@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Element with left side smaller and right side greater\bin\Debug\Element with left side smaller and right side greater.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Element with left side smaller and right side greater\bin\Debug\Element with left side smaller and right side greater.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Element with left side smaller and right side greater\bin\Debug\Element with left side smaller and right side greater.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Element with left side smaller and right side greater\obj\Debug\Element with left side smaller and right side greater.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Element with left side smaller and right side greater\obj\Debug\Element with left side smaller and right side greater.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Element with left side smaller and right side greater\obj\Debug\Element with left side smaller and right side greater.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Element with left side smaller and right side greater\obj\Debug\Element with left side smaller and right side greater.pdb

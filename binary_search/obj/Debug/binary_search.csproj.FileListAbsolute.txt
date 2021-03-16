@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\binary_search\bin\Debug\binary_search.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\binary_search\bin\Debug\binary_search.exe
+C:\Users\gc\source\repos\rat_in_a_maze\binary_search\bin\Debug\binary_search.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\binary_search\obj\Debug\binary_search.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\binary_search\obj\Debug\binary_search.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\binary_search\obj\Debug\binary_search.exe
+C:\Users\gc\source\repos\rat_in_a_maze\binary_search\obj\Debug\binary_search.pdb

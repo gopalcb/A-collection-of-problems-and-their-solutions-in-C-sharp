@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Maximal Rectangle\bin\Debug\Maximal Rectangle.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Maximal Rectangle\bin\Debug\Maximal Rectangle.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Maximal Rectangle\bin\Debug\Maximal Rectangle.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Maximal Rectangle\obj\Debug\Maximal Rectangle.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Maximal Rectangle\obj\Debug\Maximal Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Maximal Rectangle\obj\Debug\Maximal Rectangle.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Maximal Rectangle\obj\Debug\Maximal Rectangle.pdb

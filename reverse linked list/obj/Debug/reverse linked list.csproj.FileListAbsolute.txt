@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\reverse linked list\bin\Debug\reverse linked list.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\reverse linked list\bin\Debug\reverse linked list.exe
+C:\Users\gc\source\repos\rat_in_a_maze\reverse linked list\bin\Debug\reverse linked list.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\reverse linked list\obj\Debug\reverse linked list.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\reverse linked list\obj\Debug\reverse linked list.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\reverse linked list\obj\Debug\reverse linked list.exe
+C:\Users\gc\source\repos\rat_in_a_maze\reverse linked list\obj\Debug\reverse linked list.pdb

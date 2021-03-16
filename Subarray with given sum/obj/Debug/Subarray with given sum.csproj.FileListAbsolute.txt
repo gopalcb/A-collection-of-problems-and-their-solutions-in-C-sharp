@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Subarray with given sum\bin\Debug\Subarray with given sum.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Subarray with given sum\bin\Debug\Subarray with given sum.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Subarray with given sum\bin\Debug\Subarray with given sum.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Subarray with given sum\obj\Debug\Subarray with given sum.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Subarray with given sum\obj\Debug\Subarray with given sum.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Subarray with given sum\obj\Debug\Subarray with given sum.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Subarray with given sum\obj\Debug\Subarray with given sum.pdb

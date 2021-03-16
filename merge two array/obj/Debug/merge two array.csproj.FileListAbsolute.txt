@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\merge two array\bin\Debug\merge two array.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\merge two array\bin\Debug\merge two array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\merge two array\bin\Debug\merge two array.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\merge two array\obj\Debug\merge two array.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\merge two array\obj\Debug\merge two array.exe
+C:\Users\gc\source\repos\rat_in_a_maze\merge two array\obj\Debug\merge two array.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\merge two array\obj\Debug\merge two array.csprojAssemblyReference.cache

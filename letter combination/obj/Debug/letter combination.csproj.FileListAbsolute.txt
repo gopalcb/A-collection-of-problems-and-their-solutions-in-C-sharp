@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\letter combination\bin\Debug\letter combination.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\letter combination\bin\Debug\letter combination.exe
+C:\Users\gc\source\repos\rat_in_a_maze\letter combination\bin\Debug\letter combination.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\letter combination\obj\Debug\letter combination.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\letter combination\obj\Debug\letter combination.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\letter combination\obj\Debug\letter combination.exe
+C:\Users\gc\source\repos\rat_in_a_maze\letter combination\obj\Debug\letter combination.pdb

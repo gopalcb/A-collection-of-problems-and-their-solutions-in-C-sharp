@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\next higher number\bin\Debug\next higher number.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\next higher number\bin\Debug\next higher number.exe
+C:\Users\gc\source\repos\rat_in_a_maze\next higher number\bin\Debug\next higher number.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\next higher number\obj\Debug\next higher number.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\next higher number\obj\Debug\next higher number.exe
+C:\Users\gc\source\repos\rat_in_a_maze\next higher number\obj\Debug\next higher number.pdb

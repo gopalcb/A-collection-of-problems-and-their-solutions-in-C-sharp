@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\counts_of_2s\bin\Debug\counts_of_2s.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\counts_of_2s\bin\Debug\counts_of_2s.exe
+C:\Users\gc\source\repos\rat_in_a_maze\counts_of_2s\bin\Debug\counts_of_2s.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\counts_of_2s\obj\Debug\counts_of_2s.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\counts_of_2s\obj\Debug\counts_of_2s.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\counts_of_2s\obj\Debug\counts_of_2s.exe
+C:\Users\gc\source\repos\rat_in_a_maze\counts_of_2s\obj\Debug\counts_of_2s.pdb

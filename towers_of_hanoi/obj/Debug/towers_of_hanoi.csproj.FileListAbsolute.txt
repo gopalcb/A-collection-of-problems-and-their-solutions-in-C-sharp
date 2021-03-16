@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\towers_of_hanoi\bin\Debug\towers_of_hanoi.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\towers_of_hanoi\bin\Debug\towers_of_hanoi.exe
+C:\Users\gc\source\repos\rat_in_a_maze\towers_of_hanoi\bin\Debug\towers_of_hanoi.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\towers_of_hanoi\obj\Debug\towers_of_hanoi.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\towers_of_hanoi\obj\Debug\towers_of_hanoi.exe
+C:\Users\gc\source\repos\rat_in_a_maze\towers_of_hanoi\obj\Debug\towers_of_hanoi.pdb

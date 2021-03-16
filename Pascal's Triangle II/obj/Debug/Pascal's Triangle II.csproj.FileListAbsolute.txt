@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Pascal's Triangle II\bin\Debug\Pascal's Triangle II.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Pascal's Triangle II\bin\Debug\Pascal's Triangle II.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Pascal's Triangle II\bin\Debug\Pascal's Triangle II.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Pascal's Triangle II\obj\Debug\Pascal's Triangle II.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Pascal's Triangle II\obj\Debug\Pascal's Triangle II.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Pascal's Triangle II\obj\Debug\Pascal's Triangle II.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Pascal's Triangle II\obj\Debug\Pascal's Triangle II.pdb

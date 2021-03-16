@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Max length chain\bin\Debug\Max length chain.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Max length chain\bin\Debug\Max length chain.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Max length chain\bin\Debug\Max length chain.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Max length chain\obj\Debug\Max length chain.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Max length chain\obj\Debug\Max length chain.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Max length chain\obj\Debug\Max length chain.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Max length chain\obj\Debug\Max length chain.pdb

@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Stock buy and sell\bin\Debug\Stock buy and sell.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Stock buy and sell\bin\Debug\Stock buy and sell.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Stock buy and sell\bin\Debug\Stock buy and sell.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Stock buy and sell\obj\Debug\Stock buy and sell.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Stock buy and sell\obj\Debug\Stock buy and sell.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Stock buy and sell\obj\Debug\Stock buy and sell.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Stock buy and sell\obj\Debug\Stock buy and sell.pdb

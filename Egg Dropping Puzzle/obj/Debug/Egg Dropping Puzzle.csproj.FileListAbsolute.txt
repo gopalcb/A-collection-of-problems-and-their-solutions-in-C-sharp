@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Egg Dropping Puzzle\bin\Debug\Egg Dropping Puzzle.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Egg Dropping Puzzle\bin\Debug\Egg Dropping Puzzle.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Egg Dropping Puzzle\bin\Debug\Egg Dropping Puzzle.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Egg Dropping Puzzle\obj\Debug\Egg Dropping Puzzle.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Egg Dropping Puzzle\obj\Debug\Egg Dropping Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Egg Dropping Puzzle\obj\Debug\Egg Dropping Puzzle.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Egg Dropping Puzzle\obj\Debug\Egg Dropping Puzzle.pdb

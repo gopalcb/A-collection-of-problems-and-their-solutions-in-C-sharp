@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Stack\bin\Debug\Stack.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Stack\bin\Debug\Stack.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Stack\bin\Debug\Stack.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Stack\obj\Debug\Stack.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Stack\obj\Debug\Stack.pdb

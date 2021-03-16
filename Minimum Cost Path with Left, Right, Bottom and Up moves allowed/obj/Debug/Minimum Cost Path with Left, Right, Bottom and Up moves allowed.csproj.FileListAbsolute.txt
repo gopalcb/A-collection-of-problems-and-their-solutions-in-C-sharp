@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path with Left, Right, Bottom and Up moves allowed\bin\Debug\Minimum Cost Path with Left, Right, Bottom and Up moves allowed.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path with Left, Right, Bottom and Up moves allowed\bin\Debug\Minimum Cost Path with Left, Right, Bottom and Up moves allowed.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path with Left, Right, Bottom and Up moves allowed\bin\Debug\Minimum Cost Path with Left, Right, Bottom and Up moves allowed.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path with Left, Right, Bottom and Up moves allowed\obj\Debug\Minimum Cost Path with Left, Right, Bottom and Up moves allowed.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path with Left, Right, Bottom and Up moves allowed\obj\Debug\Minimum Cost Path with Left, Right, Bottom and Up moves allowed.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path with Left, Right, Bottom and Up moves allowed\obj\Debug\Minimum Cost Path with Left, Right, Bottom and Up moves allowed.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum Cost Path with Left, Right, Bottom and Up moves allowed\obj\Debug\Minimum Cost Path with Left, Right, Bottom and Up moves allowed.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\minimum number of operation\bin\Debug\minimum number of operation.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\minimum number of operation\bin\Debug\minimum number of operation.exe
+C:\Users\gc\source\repos\rat_in_a_maze\minimum number of operation\bin\Debug\minimum number of operation.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\minimum number of operation\obj\Debug\minimum number of operation.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\minimum number of operation\obj\Debug\minimum number of operation.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\minimum number of operation\obj\Debug\minimum number of operation.exe
+C:\Users\gc\source\repos\rat_in_a_maze\minimum number of operation\obj\Debug\minimum number of operation.pdb

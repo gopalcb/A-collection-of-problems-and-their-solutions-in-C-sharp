@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\ip_addresses\bin\Debug\ip_addresses.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\ip_addresses\bin\Debug\ip_addresses.exe
+C:\Users\gc\source\repos\rat_in_a_maze\ip_addresses\bin\Debug\ip_addresses.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\ip_addresses\obj\Debug\ip_addresses.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\ip_addresses\obj\Debug\ip_addresses.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\ip_addresses\obj\Debug\ip_addresses.exe
+C:\Users\gc\source\repos\rat_in_a_maze\ip_addresses\obj\Debug\ip_addresses.pdb

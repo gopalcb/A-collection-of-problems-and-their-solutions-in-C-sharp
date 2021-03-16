@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\max_sum_sub_matrix\bin\Debug\max_sum_sub_matrix.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\max_sum_sub_matrix\bin\Debug\max_sum_sub_matrix.exe
+C:\Users\gc\source\repos\rat_in_a_maze\max_sum_sub_matrix\bin\Debug\max_sum_sub_matrix.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\max_sum_sub_matrix\obj\Debug\max_sum_sub_matrix.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\max_sum_sub_matrix\obj\Debug\max_sum_sub_matrix.exe
+C:\Users\gc\source\repos\rat_in_a_maze\max_sum_sub_matrix\obj\Debug\max_sum_sub_matrix.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\max_sum_sub_matrix\obj\Debug\max_sum_sub_matrix.csprojAssemblyReference.cache

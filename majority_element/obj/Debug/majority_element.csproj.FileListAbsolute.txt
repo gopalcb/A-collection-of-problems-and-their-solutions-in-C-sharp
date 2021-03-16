@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\majority_element\bin\Debug\majority_element.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\majority_element\bin\Debug\majority_element.exe
+C:\Users\gc\source\repos\rat_in_a_maze\majority_element\bin\Debug\majority_element.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\majority_element\obj\Debug\majority_element.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\majority_element\obj\Debug\majority_element.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\majority_element\obj\Debug\majority_element.exe
+C:\Users\gc\source\repos\rat_in_a_maze\majority_element\obj\Debug\majority_element.pdb

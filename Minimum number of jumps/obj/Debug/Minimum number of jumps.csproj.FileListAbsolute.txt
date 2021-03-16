@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum number of jumps\bin\Debug\Minimum number of jumps.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum number of jumps\bin\Debug\Minimum number of jumps.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum number of jumps\bin\Debug\Minimum number of jumps.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum number of jumps\obj\Debug\Minimum number of jumps.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum number of jumps\obj\Debug\Minimum number of jumps.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Minimum number of jumps\obj\Debug\Minimum number of jumps.pdb

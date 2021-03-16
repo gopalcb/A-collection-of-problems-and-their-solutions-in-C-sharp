@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\HashTable\bin\Debug\HashTable.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\HashTable\bin\Debug\HashTable.exe
+C:\Users\gc\source\repos\rat_in_a_maze\HashTable\bin\Debug\HashTable.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\HashTable\obj\Debug\HashTable.exe
+C:\Users\gc\source\repos\rat_in_a_maze\HashTable\obj\Debug\HashTable.pdb

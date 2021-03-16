@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Box Stacking Problem\obj\Debug\Box Stacking Problem.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Box Stacking Problem\bin\Debug\Box Stacking Problem.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Box Stacking Problem\bin\Debug\Box Stacking Problem.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Box Stacking Problem\bin\Debug\Box Stacking Problem.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Box Stacking Problem\obj\Debug\Box Stacking Problem.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Box Stacking Problem\obj\Debug\Box Stacking Problem.pdb

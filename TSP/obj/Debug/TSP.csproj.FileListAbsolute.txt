@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\TSP\bin\Debug\TSP.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\TSP\bin\Debug\TSP.exe
+C:\Users\gc\source\repos\rat_in_a_maze\TSP\bin\Debug\TSP.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\TSP\obj\Debug\TSP.exe
+C:\Users\gc\source\repos\rat_in_a_maze\TSP\obj\Debug\TSP.pdb

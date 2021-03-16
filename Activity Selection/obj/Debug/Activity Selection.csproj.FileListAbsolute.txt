@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Activity Selection\bin\Debug\Activity Selection.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Activity Selection\bin\Debug\Activity Selection.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Activity Selection\bin\Debug\Activity Selection.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Activity Selection\obj\Debug\Activity Selection.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Activity Selection\obj\Debug\Activity Selection.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Activity Selection\obj\Debug\Activity Selection.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Activity Selection\obj\Debug\Activity Selection.pdb

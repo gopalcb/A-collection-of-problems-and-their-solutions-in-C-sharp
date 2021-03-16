@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Subsequence\bin\Debug\Longest Common Subsequence.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Subsequence\bin\Debug\Longest Common Subsequence.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Subsequence\bin\Debug\Longest Common Subsequence.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Subsequence\obj\Debug\Longest Common Subsequence.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Subsequence\obj\Debug\Longest Common Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Subsequence\obj\Debug\Longest Common Subsequence.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Longest Common Subsequence\obj\Debug\Longest Common Subsequence.pdb

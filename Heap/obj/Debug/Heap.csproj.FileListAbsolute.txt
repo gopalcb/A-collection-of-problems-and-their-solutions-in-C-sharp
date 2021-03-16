@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Heap\bin\Debug\Heap.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Heap\bin\Debug\Heap.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Heap\bin\Debug\Heap.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Heap\obj\Debug\Heap.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Heap\obj\Debug\Heap.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Heap\obj\Debug\Heap.pdb

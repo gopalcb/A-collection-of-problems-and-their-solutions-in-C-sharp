@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\Find all triplets with zero sum\bin\Debug\Find all triplets with zero sum.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\Find all triplets with zero sum\bin\Debug\Find all triplets with zero sum.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Find all triplets with zero sum\bin\Debug\Find all triplets with zero sum.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\Find all triplets with zero sum\obj\Debug\Find all triplets with zero sum.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Find all triplets with zero sum\obj\Debug\Find all triplets with zero sum.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\Find all triplets with zero sum\obj\Debug\Find all triplets with zero sum.exe
+C:\Users\gc\source\repos\rat_in_a_maze\Find all triplets with zero sum\obj\Debug\Find all triplets with zero sum.pdb

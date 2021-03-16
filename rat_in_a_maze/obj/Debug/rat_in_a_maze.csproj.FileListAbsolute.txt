@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\rat_in_a_maze\rat_in_a_maze\bin\Debug\rat_in_a_maze.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\rat_in_a_maze\bin\Debug\rat_in_a_maze.exe
+C:\Users\gc\source\repos\rat_in_a_maze\rat_in_a_maze\bin\Debug\rat_in_a_maze.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\rat_in_a_maze\obj\Debug\rat_in_a_maze.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\rat_in_a_maze\rat_in_a_maze\obj\Debug\rat_in_a_maze.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\rat_in_a_maze\obj\Debug\rat_in_a_maze.exe
+C:\Users\gc\source\repos\rat_in_a_maze\rat_in_a_maze\obj\Debug\rat_in_a_maze.pdb

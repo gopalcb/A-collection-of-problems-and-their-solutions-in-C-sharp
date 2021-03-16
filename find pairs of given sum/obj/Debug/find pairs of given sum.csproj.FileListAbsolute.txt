@@ -1,0 +1,6 @@
+C:\Users\gc\source\repos\rat_in_a_maze\find pairs of given sum\bin\Debug\find pairs of given sum.exe.config
+C:\Users\gc\source\repos\rat_in_a_maze\find pairs of given sum\bin\Debug\find pairs of given sum.exe
+C:\Users\gc\source\repos\rat_in_a_maze\find pairs of given sum\bin\Debug\find pairs of given sum.pdb
+C:\Users\gc\source\repos\rat_in_a_maze\find pairs of given sum\obj\Debug\find pairs of given sum.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\rat_in_a_maze\find pairs of given sum\obj\Debug\find pairs of given sum.exe
+C:\Users\gc\source\repos\rat_in_a_maze\find pairs of given sum\obj\Debug\find pairs of given sum.pdb
